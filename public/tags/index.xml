@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kead.Eu</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Kead.Eu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Tue, 02 Feb 2021 23:24:18 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kue</title>
+      <link>http://localhost:1313/tags/kue/</link>
+      <pubDate>Tue, 02 Feb 2021 23:24:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/kue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>makanan penutup</title>
+      <link>http://localhost:1313/tags/makanan-penutup/</link>
+      <pubDate>Tue, 02 Feb 2021 23:24:18 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/makanan-penutup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
